@@ -1,4 +1,4 @@
-#React moviedb searchengine
+# React moviedb searchengine
 
 This is a movieDB project made using react.
 
